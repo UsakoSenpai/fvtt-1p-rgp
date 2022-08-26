@@ -1,4 +1,4 @@
-﻿# fvtt-afp
+﻿# fvtt-1p-rpg
 
 An implementation for Foundry VTT of a generic one-page TTRPG system. 
 
